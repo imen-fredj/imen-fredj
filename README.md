@@ -5,7 +5,6 @@
 <h2>📌 Table of Contents</h2>
 <ul>
   <li><a href="#about-me">About Me</a></li>
-  <li><a href="#projects">Projects</a></li>
   <li><a href="#skills">Skills</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#fun-facts">Fun Facts</a></li>
@@ -18,19 +17,6 @@
   <li><strong>Learning:</strong> Deep Learning, Machine Learning, Data Analysis, and other data-related subjects through various courses and hands-on projects.</li>
 </ul>
 
-<h2 id="projects">💻 Projects</h2>
-<p>Here's a snapshot of some of the projects I've been working on as I build my knowledge and skills:</p>
-
-<h3>🩸 Blood Donation Website</h3>
-<p><strong>Description:</strong> A comprehensive platform designed to streamline the blood donation process. This website allows donors to register, schedule appointments, and receive timely notifications, enhancing the efficiency and effectiveness of blood donation campaigns.<br>
-<strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, Scrum, MVC<br>
-<strong>Highlights:</strong></p>
-<ul>
-  <li>Automated registration and scheduling system for donors.</li>
-  <li>Real-time notifications and reminders for appointments.</li>
-  <li>Admin dashboard for managing donor data and appointment schedules.</li>
-</ul>
-<p><a href="link-to-project">🔗 View Project</a> | <a href="link-to-repo">📁 View Code</a></p>
 
 <h2 id="skills">🛠️ Skills</h2>
 <p>Here's a quick rundown of the tools and technologies I'm proficient in and continuously learning:</p>
